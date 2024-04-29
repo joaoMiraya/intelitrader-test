@@ -1,0 +1,14 @@
+D:\Projetos\testINT\difference\bin\Debug\net8.0\difference.exe
+D:\Projetos\testINT\difference\bin\Debug\net8.0\difference.deps.json
+D:\Projetos\testINT\difference\bin\Debug\net8.0\difference.runtimeconfig.json
+D:\Projetos\testINT\difference\bin\Debug\net8.0\difference.dll
+D:\Projetos\testINT\difference\bin\Debug\net8.0\difference.pdb
+D:\Projetos\testINT\difference\obj\Debug\net8.0\difference.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\testINT\difference\obj\Debug\net8.0\difference.AssemblyInfoInputs.cache
+D:\Projetos\testINT\difference\obj\Debug\net8.0\difference.AssemblyInfo.cs
+D:\Projetos\testINT\difference\obj\Debug\net8.0\difference.csproj.CoreCompileInputs.cache
+D:\Projetos\testINT\difference\obj\Debug\net8.0\difference.dll
+D:\Projetos\testINT\difference\obj\Debug\net8.0\refint\difference.dll
+D:\Projetos\testINT\difference\obj\Debug\net8.0\difference.pdb
+D:\Projetos\testINT\difference\obj\Debug\net8.0\difference.genruntimeconfig.cache
+D:\Projetos\testINT\difference\obj\Debug\net8.0\ref\difference.dll

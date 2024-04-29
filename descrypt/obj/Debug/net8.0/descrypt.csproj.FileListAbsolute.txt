@@ -1,0 +1,14 @@
+D:\Projetos\testINT\descrypt\bin\Debug\net8.0\descrypt.exe
+D:\Projetos\testINT\descrypt\bin\Debug\net8.0\descrypt.deps.json
+D:\Projetos\testINT\descrypt\bin\Debug\net8.0\descrypt.runtimeconfig.json
+D:\Projetos\testINT\descrypt\bin\Debug\net8.0\descrypt.dll
+D:\Projetos\testINT\descrypt\bin\Debug\net8.0\descrypt.pdb
+D:\Projetos\testINT\descrypt\obj\Debug\net8.0\descrypt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\testINT\descrypt\obj\Debug\net8.0\descrypt.AssemblyInfoInputs.cache
+D:\Projetos\testINT\descrypt\obj\Debug\net8.0\descrypt.AssemblyInfo.cs
+D:\Projetos\testINT\descrypt\obj\Debug\net8.0\descrypt.csproj.CoreCompileInputs.cache
+D:\Projetos\testINT\descrypt\obj\Debug\net8.0\descrypt.dll
+D:\Projetos\testINT\descrypt\obj\Debug\net8.0\refint\descrypt.dll
+D:\Projetos\testINT\descrypt\obj\Debug\net8.0\descrypt.pdb
+D:\Projetos\testINT\descrypt\obj\Debug\net8.0\descrypt.genruntimeconfig.cache
+D:\Projetos\testINT\descrypt\obj\Debug\net8.0\ref\descrypt.dll
